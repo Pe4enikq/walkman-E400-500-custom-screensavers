@@ -3,7 +3,7 @@ A collection of custom 1-bit animated screensavers for Sony Walkman NW-E400/E500
 
 
 
-###Current list of animation screens:
+### Current list of animation screens:
 
 Gazing Sight\
 <img src="unpacked files/gazing_sight_project/bitmaps/00.png" width="72">
