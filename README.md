@@ -15,5 +15,5 @@ Starrain\
 <img src="unpacked files/starrain_project/bitmaps/13.png" width="72">
 
 Tetris\
-<img src="unpacked files/tetris_project_v3/bitmaps/43.png" width="72">
+<img src="unpacked files/tetris_project_v3/bitmaps/25.png" width="72">
  
