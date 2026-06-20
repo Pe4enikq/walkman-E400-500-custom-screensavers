@@ -1,0 +1,38 @@
+author: Pe4enika
+bitmaps:
+- bitmaps/00.png
+- bitmaps/01.png
+- bitmaps/02.png
+- bitmaps/03.png
+- bitmaps/04.png
+- bitmaps/05.png
+- bitmaps/06.png
+- bitmaps/07.png
+- bitmaps/08.png
+- bitmaps/09.png
+- bitmaps/10.png
+frames:
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+name: Gazing Sight
+u1: 30720
+u2: 12288
