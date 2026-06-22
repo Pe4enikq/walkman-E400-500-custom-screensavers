@@ -16,4 +16,7 @@ Starrain\
 
 Tetris\
 <img src="unpacked files/tetris_project_v3/bitmaps/25.png" width="72">
+
+Vibing Kitty\
+<img src="unpacked files/vibin_kitty_project/bitmaps/00.png" width="72">
  
